@@ -1,4 +1,4 @@
-# AWS Infrastructure with Terraform
+# AWS EC2 WEB SERVER Infrastructure with Terraform
 
 This project defines an AWS web server infrastructure setup using Terraform. The configuration includes an EC2 instance running Ubuntu, with a security group allowing HTTP, HTTPS, and SSH access. Additionally, the instance is configured to install and run Nginx automatically.
 
